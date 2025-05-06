@@ -12,3 +12,4 @@ print("cant do it")
 else:
 print(f"div: {x/y}")
 
+print("bye bye")
